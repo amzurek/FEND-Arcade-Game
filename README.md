@@ -14,7 +14,7 @@ This is only desktop version but I will work on fully responsive version and add
 4. If you reach to the water, You will see green background with "Hurray" text and start again from the start position.
 5. Every collision with the enemy, You will start again from the start position.
 
-**Link to the game demo:** 
+**Link to the game demo:** https://amzurek.github.io/FEND-Arcade-Game/
 
 #**To Do next:**
 
