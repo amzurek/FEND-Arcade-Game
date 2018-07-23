@@ -1,13 +1,13 @@
 Frontend-Nanodegree-Arcade-Game
 ===============================
 
-#**About:**
+# **About:**
 
 Arcade Game Project is my another journey of Front End Developer Nanodegree Program of Udacity.
 The goal of this project was to edit app.js file using Object-Oriented Functions.
 This is only desktop version but I will work on fully responsive version and add soon as it possible.
 
-#**How to play the game:**
+# **How to play the game:**
 1. To move use the arrow keys (up, left, right, down).
 2. The objective is to reach to the water.
 3. Watch out the enemies.
@@ -16,14 +16,14 @@ This is only desktop version but I will work on fully responsive version and add
 
 **Link to the game demo:** https://amzurek.github.io/FEND-Arcade-Game/
 
-#**To Do next:**
+# **To Do next:**
 
 1. Add score.
 2. Add limited life.
 3. Make this game more difficult by add more enemies.
 4. Add sound.
 
-##License
+## License
 
 Copyright 2018 by amzurek
 
